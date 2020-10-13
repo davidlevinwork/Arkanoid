@@ -24,4 +24,4 @@ After downloading, you can run the game vie any Java IDEA.
 
 ## Media
 
-<img src="Images/level_1.png" width = "220">      <img src="Images/level_2.png" width = "220">      <img src="Images/level_3.png" width = "220">      <img src="Images/level_4.png" width = "220">
+<img src="Images/level_1.png" width = "230">      <img src="Images/level_2.png" width = "230">      <img src="Images/level_3.png" width = "230">      <img src="Images/level_4.png" width = "230">
